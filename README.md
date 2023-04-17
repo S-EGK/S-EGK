@@ -1,4 +1,4 @@
-### Hi there 👋, Srikanth Elkoori Ghantala Karnam
+### Hi there 👋, I'm Srikanth Elkoori Ghantala Karnam
 #### Robotics, Machine Learning, Computer Vision
 ![Robotics, Machine Learning, Computer Vision](https://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/607b4366300cc60f863a756d/1618690924185/Control_Map_ver5.png)
 
