@@ -1,7 +1,7 @@
 ![Robotics, Machine Learning, Computer Vision](https://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/607b4366300cc60f863a756d/1618690924185/Control_Map_ver5.png)
 
 # Hi there 👋, I'm Srikanth Elkoori Ghantala Karnam
-**'Robotics, Machine Learning, Computer Vision'**
+**' Robotics, Machine Learning, Computer Vision '**
 
 Hi! I'm a mechanical engineering graduate student pursuing an M.S. in Robotics and Machine Learning at the University of Cincinnati. With proficiency in Python, C++, and MATLAB, I have experience working with machine learning frameworks, libraries, and simulation tools. I have worked on various projects involving deep reinforcement learning, self-driving cars, computer vision, and machine learning.
 
