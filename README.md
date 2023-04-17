@@ -15,7 +15,7 @@ Hi! I'm a mechanical engineering graduate student pursuing an M.S. in Robotics a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/S-EGK" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://github.com/S-EGK" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/in/srikanthegk/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/> </a>
   <a href="https://orcid.org/my-orcid?orcid=0000-0002-1354-7836" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" width="40" height="40"/> </a>
   <a href="https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="googlescholar" width="40" height="40"/> </a>
