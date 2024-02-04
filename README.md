@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Deep Learning, Reinforcement Learning, Robotics**
 
-- 📫 How to reach me **elkoorsh@mail.uc.edu**
+- 📫 How to reach me **egk.srikanth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
