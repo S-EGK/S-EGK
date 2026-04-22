@@ -20,32 +20,28 @@ Robotics engineer focused on deployable autonomy, perception, SLAM, simulation, 
 
 ## Public Repositories
 
-| Repository | Description |
-| --- | --- |
-| **Robotics, Autonomy & ROS** | |
-| [udacity_nanodegree-robotics_software_engineer](https://github.com/S-EGK/udacity_nanodegree-robotics_software_engineer) | Consolidated Udacity Robotics Software Engineer work covering Gazebo worlds, ROS services and nodes, AMCL localization, RTAB-Map SLAM, navigation, and a home service robot workflow. |
-| [Simulators](https://github.com/S-EGK/Simulators) | Simulation notebooks and models for CubeSat dynamics, double pendulum systems, and quadrotor behavior. |
-| [Contollers](https://github.com/S-EGK/Contollers) | Linear and nonlinear control experiments, including LQR, PID, sliding mode, backstepping, adaptive control, quadrotor attitude control, and inverted pendulum stabilization. |
-| [State-Estimators](https://github.com/S-EGK/State-Estimators) | State estimation work centered on an Extended Kalman Filter for a differentially flat quadrotor controller. |
-| [Graph-based-Motion-Planning](https://github.com/S-EGK/Graph-based-Motion-Planning) | Python workspace for graph search and motion planning experiments. |
-| [LiDAR-SLAM](https://github.com/S-EGK/LiDAR-SLAM) | LiDAR-focused SLAM sandbox for localization and mapping experiments. |
-| [Self-Driving-Car](https://github.com/S-EGK/Self-Driving-Car) | Autonomous driving project workspace for perception, planning, and vehicle autonomy experiments. |
-| **Perception & Computer Vision** | |
-| [Computer-Vision](https://github.com/S-EGK/Computer-Vision) | Computer vision demos including MoveNet multi-person pose estimation and deep learning based face detection with OpenCV. |
-| [Depth-Estimation](https://github.com/S-EGK/Depth-Estimation) | Depth perception experiments using MiDaS and stereo vision pipelines. |
-| [Visual-Odometry](https://github.com/S-EGK/Visual-Odometry) | Visual odometry experiments for estimating camera motion from image sequences, including KITTI-style outputs. |
-| [Optical-Flow-Estimation](https://github.com/S-EGK/Optical-Flow-Estimation) | Sparse and dense optical flow implementations using OpenCV. |
-| [Advanced-Lane-Lines-Detection](https://github.com/S-EGK/Advanced-Lane-Lines-Detection) | Lane detection pipeline for road imagery and autonomous driving perception. |
-| [Traffic-Detection-Tracking-System](https://github.com/S-EGK/Traffic-Detection-Tracking-System) | Traffic scene detection and object tracking workspace for roadway perception. |
-| [2D-Object-Orientation-Detection](https://github.com/S-EGK/2D-Object-Orientation-Detection) | Object orientation estimation in 2D images using U-Net segmentation, contour analysis, feature matching, and rotation-angle calculation. |
-| **Machine Learning & Reinforcement Learning** | |
-| [Deep-Learning](https://github.com/S-EGK/Deep-Learning) | Deep learning projects including LSTM-based time-series prediction, CNN image classification, and sign language recognition. |
-| [Reinforcement-Learning](https://github.com/S-EGK/Reinforcement-Learning) | Python reinforcement learning workspace for experiments and learning-based decision making. |
-| [riscRL](https://github.com/S-EGK/riscRL) | Python reinforcement learning sandbox for smaller experiments and prototypes. |
-| **Systems, Tooling & Profile** | |
-| [audio_sdk](https://github.com/S-EGK/audio_sdk) | Linux-first C++17 audio device and stream control SDK for robotics and low-latency applications, currently backed by PipeWire. |
-| [S-EGK.github.io](https://github.com/S-EGK/S-EGK.github.io) | Portfolio site source for robotics experience, projects, resume, publications, platforms, sensors, and skills. |
-| [S-EGK](https://github.com/S-EGK/S-EGK) | GitHub profile README and profile configuration. |
+|  | Repository | Description |
+| --- | --- | --- |
+| **Robotics, Autonomy & ROS** | [udacity_nanodegree-robotics_software_engineer](https://github.com/S-EGK/udacity_nanodegree-robotics_software_engineer) | Consolidated Udacity Robotics Software Engineer work covering Gazebo worlds, ROS services and nodes, AMCL localization, RTAB-Map SLAM, navigation, and a home service robot workflow. |
+|  | [Simulators](https://github.com/S-EGK/Simulators) | Simulation notebooks and models for CubeSat dynamics, double pendulum systems, and quadrotor behavior. |
+|  | [Contollers](https://github.com/S-EGK/Contollers) | Linear and nonlinear control experiments, including LQR, PID, sliding mode, backstepping, adaptive control, quadrotor attitude control, and inverted pendulum stabilization. |
+|  | [State-Estimators](https://github.com/S-EGK/State-Estimators) | State estimation work centered on an Extended Kalman Filter for a differentially flat quadrotor controller. |
+|  | [Graph-based-Motion-Planning](https://github.com/S-EGK/Graph-based-Motion-Planning) | Python workspace for graph search and motion planning experiments. |
+|  | [LiDAR-SLAM](https://github.com/S-EGK/LiDAR-SLAM) | LiDAR-focused SLAM sandbox for localization and mapping experiments. |
+|  | [Self-Driving-Car](https://github.com/S-EGK/Self-Driving-Car) | Autonomous driving project workspace for perception, planning, and vehicle autonomy experiments. |
+| **Perception & Computer Vision** | [Computer-Vision](https://github.com/S-EGK/Computer-Vision) | Computer vision demos including MoveNet multi-person pose estimation and deep learning based face detection with OpenCV. |
+|  | [Depth-Estimation](https://github.com/S-EGK/Depth-Estimation) | Depth perception experiments using MiDaS and stereo vision pipelines. |
+|  | [Visual-Odometry](https://github.com/S-EGK/Visual-Odometry) | Visual odometry experiments for estimating camera motion from image sequences, including KITTI-style outputs. |
+|  | [Optical-Flow-Estimation](https://github.com/S-EGK/Optical-Flow-Estimation) | Sparse and dense optical flow implementations using OpenCV. |
+|  | [Advanced-Lane-Lines-Detection](https://github.com/S-EGK/Advanced-Lane-Lines-Detection) | Lane detection pipeline for road imagery and autonomous driving perception. |
+|  | [Traffic-Detection-Tracking-System](https://github.com/S-EGK/Traffic-Detection-Tracking-System) | Traffic scene detection and object tracking workspace for roadway perception. |
+|  | [2D-Object-Orientation-Detection](https://github.com/S-EGK/2D-Object-Orientation-Detection) | Object orientation estimation in 2D images using U-Net segmentation, contour analysis, feature matching, and rotation-angle calculation. |
+| **Machine Learning & Reinforcement Learning** | [Deep-Learning](https://github.com/S-EGK/Deep-Learning) | Deep learning projects including LSTM-based time-series prediction, CNN image classification, and sign language recognition. |
+|  | [Reinforcement-Learning](https://github.com/S-EGK/Reinforcement-Learning) | Python reinforcement learning workspace for experiments and learning-based decision making. |
+|  | [riscRL](https://github.com/S-EGK/riscRL) | Python reinforcement learning sandbox for smaller experiments and prototypes. |
+| **Systems, Tooling & Profile** | [audio_sdk](https://github.com/S-EGK/audio_sdk) | Linux-first C++17 audio device and stream control SDK for robotics and low-latency applications, currently backed by PipeWire. |
+|  | [S-EGK.github.io](https://github.com/S-EGK/S-EGK.github.io) | Portfolio site source for robotics experience, projects, resume, publications, platforms, sensors, and skills. |
+|  | [S-EGK](https://github.com/S-EGK/S-EGK) | GitHub profile README and profile configuration. |
 
 ## Publication
 
