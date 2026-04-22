@@ -1,60 +1,124 @@
-<h1 align="center">Hi 👋, I'm Srikanth Elkoori Ghantala Karnam</h1>
-<h3 align="center">Intelligent Machines: Exploring the Intersection of Machine Learning and Robotics</h3>
+# Srikanth Elkoori Ghantala Karnam
 
-<h4 align="center">Hi! I'm a mechanical engineering graduate student pursuing an M.S. in Robotics and Machine Learning at the University of Cincinnati. With proficiency in Python, C++, and MATLAB, I have experience working with machine learning frameworks, libraries, and simulation tools. I have worked on various projects involving deep reinforcement learning, self-driving cars, computer vision, and machine learning. </h4>
+Robotics engineer focused on deployable autonomy, perception, SLAM, simulation, and embedded AI. I work across the full robotics stack: sensing, localization, planning/control, ROS/ROS 2 integration, simulation validation, and edge deployment on NVIDIA Jetson platforms.
 
-- 🔭 I’m currently working on **Autonomous Navigation using Deep Reinforcement Learning**
+[![Portfolio](https://img.shields.io/badge/Portfolio-s--egk.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://s-egk.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-S--EGK-181717?style=flat&logo=github&logoColor=white)](https://github.com/S-EGK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srikanthegk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikanthegk/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1354--7836-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1354-7836)
+[![Email](https://img.shields.io/badge/Email-egk.srikanth%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:egk.srikanth@gmail.com)
 
-- 👯 I’m looking to collaborate on **anything fun related to robotics**
+## Focus Areas
 
-- 💬 Ask me about **Deep Learning, Reinforcement Learning, Robotics**
+- Robotics middleware: ROS, ROS 2, Nav2, MoveIt, CycloneDDS, RViz
+- Platforms: Unitree Go2, B2, G1, Trossen WidowX AI Arm, Inspire Hand, BrainCo Hand
+- Sensors: LiDAR, RealSense depth cameras, FLIR thermal cameras, CrySound acoustic imaging
+- Edge AI: NVIDIA Jetson, TensorRT, CUDA, real-time perception pipelines
+- Simulation: Isaac Sim, MuJoCo, Gazebo
+- Languages: Python, C++, MATLAB
 
-- 📫 How to reach me **egk.srikanth@gmail.com**
+## Public Repositories
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/S-EGK" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.linkedin.com/in/srikanthegk/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/> </a>
-  <a href="https://orcid.org/my-orcid?orcid=0000-0002-1354-7836" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" width="40" height="40"/> </a>
-  <a href="https://scholar.google.com/citations?user=eTqg_A0AAAAJ&hl=en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="googlescholar" width="40" height="40"/> </a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Repository</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7"><strong>Robotics, Autonomy & ROS</strong></td>
+      <td><a href="https://github.com/S-EGK/udacity_nanodegree-robotics_software_engineer">udacity_nanodegree-robotics_software_engineer</a></td>
+      <td>Consolidated Udacity Robotics Software Engineer work covering Gazebo worlds, ROS services/nodes, AMCL localization, RTAB-Map SLAM, navigation, and a home service robot workflow.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Simulators">Simulators</a></td>
+      <td>Simulation notebooks and models for CubeSat dynamics, double pendulum systems, and quadrotor behavior.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Contollers">Contollers</a></td>
+      <td>Linear and nonlinear control experiments, including LQR, PID, sliding mode, backstepping, adaptive control, quadrotor attitude control, and inverted pendulum stabilization.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/State-Estimators">State-Estimators</a></td>
+      <td>State estimation work centered on an Extended Kalman Filter for a differentially flat quadrotor controller.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Graph-based-Motion-Planning">Graph-based-Motion-Planning</a></td>
+      <td>Python workspace for graph search and motion planning experiments.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/LiDAR-SLAM">LiDAR-SLAM</a></td>
+      <td>LiDAR-focused SLAM sandbox for localization and mapping experiments.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Self-Driving-Car">Self-Driving-Car</a></td>
+      <td>Autonomous driving project workspace for perception, planning, and vehicle autonomy experiments.</td>
+    </tr>
 
-<h3 align="left">Languages and Tools:</h3>
+    <tr>
+      <td rowspan="7"><strong>Perception & Computer Vision</strong></td>
+      <td><a href="https://github.com/S-EGK/Computer-Vision">Computer-Vision</a></td>
+      <td>Computer vision demos including MoveNet multi-person pose estimation and deep learning based face detection with OpenCV.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Depth-Estimation">Depth-Estimation</a></td>
+      <td>Depth perception experiments using MiDaS and stereo vision pipelines.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Visual-Odometry">Visual-Odometry</a></td>
+      <td>Visual odometry experiments for estimating camera motion from image sequences, including KITTI-style outputs.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Optical-Flow-Estimation">Optical-Flow-Estimation</a></td>
+      <td>Sparse and dense optical flow implementations using OpenCV.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Advanced-Lane-Lines-Detection">Advanced-Lane-Lines-Detection</a></td>
+      <td>Lane detection pipeline for road imagery and autonomous driving perception.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Traffic-Detection-Tracking-System">Traffic-Detection-Tracking-System</a></td>
+      <td>Traffic scene detection and object tracking workspace for roadway perception.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/2D-Object-Orientation-Detection">2D-Object-Orientation-Detection</a></td>
+      <td>Object orientation estimation in 2D images using U-Net segmentation, contour analysis, feature matching, and rotation-angle calculation.</td>
+    </tr>
 
-- Programming Languages:
+    <tr>
+      <td rowspan="3"><strong>Machine Learning & Reinforcement Learning</strong></td>
+      <td><a href="https://github.com/S-EGK/Deep-Learning">Deep-Learning</a></td>
+      <td>Deep learning projects including LSTM-based time-series prediction, CNN image classification, and sign language recognition.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/Reinforcement-Learning">Reinforcement-Learning</a></td>
+      <td>Python reinforcement learning workspace for experiments and learning-based decision making.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/riscRL">riscRL</a></td>
+      <td>Python reinforcement learning sandbox for smaller experiments and prototypes.</td>
+    </tr>
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    <tr>
+      <td rowspan="3"><strong>Systems, Tooling & Profile</strong></td>
+      <td><a href="https://github.com/S-EGK/audio_sdk">audio_sdk</a></td>
+      <td>Linux-first C++17 audio device and stream control SDK for robotics and low-latency applications, currently backed by PipeWire.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/S-EGK.github.io">S-EGK.github.io</a></td>
+      <td>Portfolio site source for robotics experience, projects, resume, publications, platforms, sensors, and skills.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/S-EGK/S-EGK">S-EGK</a></td>
+      <td>GitHub profile README and profile configuration.</td>
+    </tr>
+  </tbody>
+</table>
 
-- Machine Learning Frameworks:
+## Publication
 
-<p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-- Python Libraries:
-
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-- Dev Tools:
-
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-- Operating Systems:
-
-<p align="left"> <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://ubuntu.com/https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="windows" width="40" height="40"/> </a> </p>
-
-- Game Engines:
-
-<p align="left"> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-egk&label=Profile%20views&color=0e75b6&style=flat" alt="s-egk" /> </p>
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=S-EGK)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-EGK)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-EGK&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=S-EGK)  
-
-![GitHub metrics](https://metrics.lecoq.io/S-EGK)  
+Karnam, S., & Sharma, R. (2023). [Q-Learning Based Search of a Ground Target in a Grid with Partial Information](https://arc.aiaa.org/doi/10.2514/6.2023-2654). AIAA SCITECH 2023.
